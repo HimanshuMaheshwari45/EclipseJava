@@ -8,7 +8,7 @@ public class ArmstrongNumber {
 		System.out.println("Enter a number: ");
 		int num= sc.nextInt();
 		
-		// num is 153
+		// for e.g. Number is 153.
 		int len = String.valueOf(num).length();
 		int x = num;
 		int sum = 0;
